@@ -1,0 +1,53 @@
+.counter-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .counter-value {
+    font-size: 5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .buttons-container button {
+    background-color: #00d9ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .buttons-container button:hover {
+    background-color: #11d0f1;
+  }
+  
+  .increment-by-amount {
+    margin-top: 20px;
+  }
+  
+  .increment-by-amount input {
+    padding: 10px;
+    width: 60px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .increment-by-amount button {
+    padding: 10px 20px;
+    background-color: #5dda7a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .increment-by-amount button:hover {
+    background-color: #47bb60;
+  }
+  
